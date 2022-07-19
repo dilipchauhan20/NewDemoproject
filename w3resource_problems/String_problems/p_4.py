@@ -10,5 +10,8 @@ sample_string = "restartsr"
 char = sample_string[0]
 sample_string = sample_string.replace(char, '$')
 # sample_string = char + sample_string[1:]
-print(char + sample_string[1:])
 
+# Except 1 st char, all chars change in $
+print(char + sample_string[1:])
+# All chars change into $
+print(sample_string[::-1])
