@@ -5,7 +5,7 @@ Input: abfgerccdedccfgfer
 Output: ccdedcc
 """
 
-str1 = "abfgerccdedccfgfer"
+str1 = "abfge"
 
 
 def helper(s, l, r):
@@ -21,7 +21,10 @@ for i in range(len(str1)):
     odd = helper(str1, i, i)
     # "abba"
     even = helper(str1, i, i+1)
-    res = max(odd, even, res, key=len)
+    if len(even) > 1 or len(odd) > 1:
+        res = max(odd, even, res, key=len)
+    else:
+        print("There is no palindrome in the given string")
 
 print(res)
 

@@ -1,25 +1,25 @@
 """
 1. Write a Python script to sort (ascending and descending) a dictionary by value.
 
-Original dictionary :  {1: 2, 3: 4, 4: 3, 2: 1, 0: 0}
-Dictionary in ascending order by value :  [(0, 0), (2, 1), (1, 2), (4, 3), (3, 4)]
-Dictionary in descending order by value :  {3: 4, 4: 3, 1: 2, 2: 1, 0: 0}
-
 """
+dict1 = {1: 2, 3: 4, 4: 3, 2: 1, 0: 0}
 
-sample_dict1 = {1: 2, 3: 4, 4: 3, 2: 1, 0: 0}
-# x = sample_dict.values()
+new_dict = sorted(dict1.items(), key=lambda x: x[1], reverse=True)
 
-
-mod_dict1 = sorted(sample_dict1.items(), key=lambda x: x[1], reverse=True)
-sample_dict = {1: 2, 3: 4, 4: 3, 2: 1, 0: 0}
-
-
+# Lambda function explanation
 def sort_test(x):
     return x[1]
 
-# noinspection PyTypeChecker
-mod_dict = sorted(sample_dict.items(), key=sort_test, reverse=False)
+print(new_dict)
 
-print(dict(mod_dict))
-print((dict(mod_dict1)))
+
+# # Sorting a list by the 3rd element of the list
+# list1 = [[4, 3, 202], [10, 20, 102], [54, 99, 110], [75, 78, 199], [23, 30, 209], [15, 10, 175]]
+#
+# # sorted(list1, reverse=True)
+#
+# def fix_value(x):
+#     return x[2]
+#
+# print(sorted(list1, key=fix_value, reverse=True))
+

@@ -1,8 +1,13 @@
-str1 = [1,3,23,11,44,3,23,2,3]
-list2 = []
+# list1 = [6,5,8,9,11,23,45,10]
+# list1.remove(11)
+#
+# list2 = list1.copy()
+#
+#
+# print(list2)
 
-for i in str1:
-    if str1.count(i) > 1:
-        list2.append(i)
 
-print(list(set(list2)))
+user_input = input("Enter value by comma separator: ")
+list1 = user_input.split(" ")
+
+print(list1)

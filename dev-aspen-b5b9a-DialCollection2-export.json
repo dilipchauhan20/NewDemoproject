@@ -1,0 +1,1239 @@
+{
+  "1ef424b082c5770be14ec61934f6b7c0": {
+    "calls": {
+      "CA3a4ab31d9adfe608287863fbe745fd34": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T16:20:06",
+          "DASessionId": "9e3395a1214ef84d581330da74f0f363",
+          "DAStartTime": "2022-08-09T16:20:00"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T16:20:04",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T16:21:10",
+        "lastUpdated": "2022-08-09T16:21:10",
+        "oppID": "1823695"
+      },
+      "CA3a4ab31d9adfe608287863fbe745fd34": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T16:27:15",
+          "DASessionId": "5424b87f18bbfdda8a55c1d5e5d6075f",
+          "DAStartTime": "2022-08-09T16:27:09"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T16:27:14",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T16:27:19",
+        "lastUpdated": "2022-08-09T16:27:19",
+        "oppID": "1823697"
+      },
+      "CA58cf63b4969d7738a47cf90bcf019b0c": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T16:21:30",
+          "DASessionId": "d8f8592f953f3c68e33954c7e6931fde",
+          "DAStartTime": "2022-08-09T16:21:24"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T16:21:29",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T16:21:37",
+        "lastUpdated": "2022-08-09T16:21:37",
+        "oppID": "1823695"
+      },
+      "CA5f0b5a750fc43ab3221a1e3bc59cacf1": {
+        "DA": {
+          "DAPollingStatus": "busy",
+          "DAPollingStatusTimestamp": "2022-08-09T16:25:30",
+          "DASessionId": "0c433cb3fa010c601e7a59fb42e7f0df",
+          "DAStartTime": "2022-08-09T16:25:25"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T16:25:29",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T16:25:30",
+        "lastUpdated": "2022-08-09T16:25:30",
+        "oppID": "1953604"
+      },
+      "CA6dacf6659760c0adf316b1e504aea3fb": {
+        "callSidGeneratedTimestamp": "2022-08-09T16:12:46",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T16:13:58",
+        "lastUpdated": "2022-08-09T16:13:58",
+        "oppID": "1935436"
+      },
+      "CA7abb53f0e1f74a8733229b1ec8d95dfd": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T16:24:39",
+          "DASessionId": "20353ed59734b954cdb82a5b69c2c02a",
+          "DAStartTime": "2022-08-09T16:24:33"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T16:24:37",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T16:24:47",
+        "lastUpdated": "2022-08-09T16:24:47",
+        "oppID": "1824193"
+      },
+      "CA7bf84a0ac6015a9c572327b68d394fce": {
+        "callSidGeneratedTimestamp": "2022-08-09T16:12:46",
+        "dialType": "redial",
+        "finalCallEndTimestamp": "2022-08-09T16:14:40",
+        "lastUpdated": "2022-08-09T16:14:40",
+        "oppID": "1935436",
+        "parentCallSid": "CA6dacf6659760c0adf316b1e504aea3fb"
+      },
+      "CA98d36d8bf4fa38dfa44f83f70f997911": {
+        "DA": {
+          "DAPollingStatus": "busy",
+          "DAPollingStatusTimestamp": "2022-08-09T16:25:07",
+          "DASessionId": "20353ed59734b954cdb82a5b69c2c02a",
+          "DAStartTime": "2022-08-09T16:24:33"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T16:25:06",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T16:25:07",
+        "lastUpdated": "2022-08-09T16:25:07",
+        "oppID": "1953604"
+      },
+      "CAa92c4fd8f805aa797928790859f4168f": {
+        "callSidGeneratedTimestamp": "2022-08-09T16:12:46",
+        "dialType": "redial",
+        "finalCallEndTimestamp": "2022-08-09T16:16:05",
+        "lastUpdated": "2022-08-09T16:16:05",
+        "oppID": "1935436",
+        "parentCallSid": "CA6dacf6659760c0adf316b1e504aea3fb"
+      },
+      "CAaaf03e62b29b26b279b997255301d95b": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T16:27:43",
+          "DASessionId": "2ecc0c909acd77249188e7c12d533ab8",
+          "DAStartTime": "2022-08-09T16:27:37"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T16:27:42",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T16:28:22",
+        "lastUpdated": "2022-08-09T16:28:22",
+        "oppID": "1823697"
+      },
+      "CAb28ebeb6cb5dcc9d846174ac07591b75": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T16:22:23",
+          "DASessionId": "f9bc6346ec26e23af445fc377c3bc0be",
+          "DAStartTime": "2022-08-09T16:22:06"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T16:22:21",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T16:22:28",
+        "lastUpdated": "2022-08-09T16:22:28",
+        "oppID": "1823695"
+      },
+      "CAd9531229a877a02db435b9b821371a1b": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T16:24:54",
+          "DASessionId": "20353ed59734b954cdb82a5b69c2c02a",
+          "DAStartTime": "2022-08-09T16:24:33"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T16:24:52",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T16:25:00",
+        "lastUpdated": "2022-08-09T16:25:00",
+        "oppID": "1824365"
+      }
+    },
+    "emailID": "dilip.chauhan@mobileprogramming.com",
+    "environment": "TEST",
+    "id": "83",
+    "isSandbox": "false",
+    "timestamp": "2022-08-09T16:28:22",
+    "userID": "83",
+    "version": "2.8.09"
+  },
+  "2b30ff9c557af52e91aab8ead3abcdef": {
+    "calls": {
+      "CA0cb9f4bd3eafa73c9f7b639e2339badc": {
+        "callSidGeneratedTimestamp": "2022-08-03T13:09:56",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-03T13:11:12",
+        "lastUpdated": "2022-08-03T13:11:12",
+        "oppID": "1954101"
+      },
+      "CAa50a53db20a4fb0bf137994c447c0617": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-03T13:14:05",
+          "DASessionId": "37fd41a8aebfc715217a220cffae8d3c",
+          "DAStartTime": "2022-08-03T13:13:59"
+        },
+        "VM": {
+          "VMtimestamp": "2022-08-03T13:15:07",
+          "VMtype": "recordedVM"
+        },
+        "callSidGeneratedTimestamp": "2022-08-03T13:14:03",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-03T13:15:07",
+        "lastUpdated": "2022-08-03T13:15:07",
+        "oppID": "1933398"
+      },
+      "CAb8e6041adb8bf32b316b2e4c3b91b422": {
+        "callSidGeneratedTimestamp": "2022-08-03T13:09:56",
+        "dialType": "redial",
+        "finalCallEndTimestamp": "2022-08-03T13:13:51",
+        "lastUpdated": "2022-08-03T13:13:51",
+        "oppID": "1954101",
+        "parentCallSid": "CA0cb9f4bd3eafa73c9f7b639e2339badc"
+      }
+    },
+    "emailID": "dilip.chauhan@mobileprogramming.com",
+    "environment": "TEST",
+    "id": "83",
+    "isSandbox": "false",
+    "timestamp": "2022-08-03T13:15:07",
+    "userID": "83",
+    "version": "2.8.09"
+  },
+  "2e6503a6b7955e7db1b9a835113868e3": {
+    "calls": {
+      "CA0e5e766662d862abedc9ffc8526f2325": {
+        "callSidGeneratedTimestamp": "2022-08-09T14:24:25",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T14:25:40",
+        "lastUpdated": "2022-08-09T14:25:40",
+        "oppID": "1823810"
+      },
+      "CA25b2fe3a3906c5038c6d332b3dc4d86a": {
+        "callSidGeneratedTimestamp": "2022-08-09T14:53:43",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T14:54:25",
+        "lastUpdated": "2022-08-09T14:54:25",
+        "oppID": "1935436"
+      },
+      "CA4a9c90fae493d797af0fab89759a2508": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T14:18:52",
+          "DASessionId": "e85d92c03e09e485d8c9ab95d0698c47",
+          "DAStartTime": "2022-08-09T14:18:46"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T14:18:51",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T14:20:47",
+        "lastUpdated": "2022-08-09T14:20:47",
+        "oppID": "1936545"
+      },
+      "CA50eb3f5344c136a5f2638077fc65baa4": {
+        "callSidGeneratedTimestamp": "2022-08-09T14:24:25",
+        "dialType": "redial",
+        "finalCallEndTimestamp": "2022-08-09T14:25:59",
+        "lastUpdated": "2022-08-09T14:25:59",
+        "oppID": "1823810",
+        "parentCallSid": "CA0e5e766662d862abedc9ffc8526f2325"
+      },
+      "CA62f7b150075dc52e5ede6b867cb47d25": {
+        "callSidGeneratedTimestamp": "2022-08-09T14:28:04",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T14:28:31",
+        "lastUpdated": "2022-08-09T14:28:31",
+        "oppID": "1953342"
+      },
+      "CA69ec032bc0c3bb8770d1c464ff14e5ea": {
+        "callSidGeneratedTimestamp": "2022-08-09T14:55:01",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T14:55:18",
+        "lastUpdated": "2022-08-09T14:55:18",
+        "oppID": "1935436"
+      },
+      "CA8b3802a42d803b160ccc41d68793224c": {
+        "callSidGeneratedTimestamp": "2022-08-09T14:22:36",
+        "dialType": "redial",
+        "finalCallEndTimestamp": "2022-08-09T14:23:28",
+        "lastUpdated": "2022-08-09T14:23:28",
+        "oppID": "1933292",
+        "parentCallSid": "CAf67b34f6d30d79e33f9709e781811d1c"
+      },
+      "CA9229fc2d1f52083184abe4f1b29ffc15": {
+        "callSidGeneratedTimestamp": "2022-08-09T14:41:13",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T14:42:31",
+        "lastUpdated": "2022-08-09T14:42:31",
+        "oppID": "1953342"
+      },
+      "CAdd8a1719a8b7241dde6bb3dd5eb4978f": {
+        "callSidGeneratedTimestamp": "2022-08-09T14:26:41",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T14:27:19",
+        "lastUpdated": "2022-08-09T14:27:19",
+        "oppID": "1953342"
+      },
+      "CAe65a0f2c2cfe76e3591454e29f23b069": {
+        "callSidGeneratedTimestamp": "2022-08-09T14:21:49",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T14:21:59",
+        "lastUpdated": "2022-08-09T14:21:59",
+        "oppID": "1936545"
+      },
+      "CAe6ff6340b81a6bcd8e2de07ae91bd438": {
+        "callSidGeneratedTimestamp": "2022-08-09T14:33:16",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T14:33:40",
+        "lastUpdated": "2022-08-09T14:33:40",
+        "oppID": "1936545"
+      },
+      "CAefe7406018d2e20203e9327c646a00eb": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T14:43:47",
+          "DASessionId": "38e04426d7c9c3c016d22ee1baa699aa",
+          "DAStartTime": "2022-08-09T14:43:42"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T14:43:46",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T14:46:40",
+        "lastUpdated": "2022-08-09T14:46:40",
+        "oppID": "1823810"
+      },
+      "CAf67b34f6d30d79e33f9709e781811d1c": {
+        "callSidGeneratedTimestamp": "2022-08-09T14:22:36",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T14:23:13",
+        "lastUpdated": "2022-08-09T14:23:13",
+        "oppID": "1933292"
+      }
+    },
+    "emailID": "dilip.chauhan@mobileprogramming.com",
+    "environment": "TEST",
+    "id": "83",
+    "isSandbox": "false",
+    "timestamp": "2022-08-09T14:55:18",
+    "userID": "83",
+    "version": "2.8.09"
+  },
+  "3480121030eca612e8ed6ce9c06235dc": {
+    "calls": {
+      "CA305a8c83c77c61a051cbcc68da4c9f20": {
+        "DA": {
+          "DAPollingStatus": "no-answer",
+          "DAPollingStatusTimestamp": "2022-08-04T16:18:24",
+          "DASessionId": "b94e1e5fb7a2eebf06411c51a8d063ef",
+          "DAStartTime": "2022-08-04T16:17:27"
+        },
+        "callSidGeneratedTimestamp": "2022-08-04T16:17:39",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-04T16:18:24",
+        "lastUpdated": "2022-08-04T16:18:24",
+        "oppID": "1953322"
+      },
+      "CA3e53d9f97a629caaf37b31edc3162e87": {
+        "callSidGeneratedTimestamp": "2022-08-04T16:10:26",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-04T16:11:00",
+        "lastUpdated": "2022-08-04T16:11:00",
+        "oppID": "1953293"
+      },
+      "CA44c42ceaaac42c287547aa36d14ad674": {
+        "callSidGeneratedTimestamp": "2022-08-04T16:12:08",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-04T16:12:21",
+        "lastUpdated": "2022-08-04T16:12:21",
+        "oppID": "1954101"
+      },
+      "CA57d36b5a07feda031be4d1683bfe1221": {
+        "callSidGeneratedTimestamp": "2022-08-04T16:18:59",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-04T16:19:48",
+        "lastUpdated": "2022-08-04T16:19:48",
+        "oppID": "1953342"
+      },
+      "CA7ed054d857e56acb864f46a659f0e4d5": {
+        "DA": {
+          "DAPollingStatus": "no-answer",
+          "DAPollingStatusTimestamp": "2022-08-04T16:30:32",
+          "DASessionId": "3bb8ee2ff8eb79f0a9996e74d0df1e67",
+          "DAStartTime": "2022-08-04T16:29:42"
+        },
+        "callSidGeneratedTimestamp": "2022-08-04T16:29:47",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-04T16:30:32",
+        "lastUpdated": "2022-08-04T16:30:32",
+        "oppID": "1953342"
+      },
+      "CAb174d5290b9ad053e7812f4ee4a3dcf1": {
+        "callSidGeneratedTimestamp": "2022-08-04T16:11:29",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-04T16:11:49",
+        "lastUpdated": "2022-08-04T16:11:49",
+        "oppID": "1953293"
+      },
+      "CAd53931acd49e719778d8f082011d9a29": {
+        "callSidGeneratedTimestamp": "2022-08-04T16:12:33",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-04T16:13:03",
+        "lastUpdated": "2022-08-04T16:13:03",
+        "oppID": "1954101"
+      }
+    },
+    "emailID": "dilip.chauhan@mobileprogramming.com",
+    "environment": "TEST",
+    "id": "83",
+    "isSandbox": "false",
+    "timestamp": "2022-08-04T16:30:32",
+    "userID": "83",
+    "version": "2.8.09"
+  },
+  "750f29156cc86aaa7a6948602894a619": {
+    "calls": {
+      "CA10319a1ef75298527f961f74b6d968c5": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-04T18:43:25",
+          "DASessionId": "975e2f4bd981a61ed2767d235d6c939d",
+          "DAStartTime": "2022-08-04T18:43:19"
+        },
+        "callSidGeneratedTimestamp": "2022-08-04T18:43:23",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-04T18:43:38",
+        "lastUpdated": "2022-08-04T18:43:38",
+        "oppID": "1628197"
+      },
+      "CA244fb4454cbdc51509251ee81396e97f": {
+        "callSidGeneratedTimestamp": "2022-08-04T18:33:36",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-04T18:42:41",
+        "lastUpdated": "2022-08-04T18:42:41",
+        "oppID": "1924524"
+      },
+      "CA2a06a4fba7df30af5dee9d2d2ded9c5d": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-04T18:43:50",
+          "DASessionId": "12f880bbbd99f91b1c85e6f4f2e32dd8",
+          "DAStartTime": "2022-08-04T18:43:45"
+        },
+        "VM": {
+          "VMtimestamp": "2022-08-04T18:44:36",
+          "VMtype": "recordedVM"
+        },
+        "callSidGeneratedTimestamp": "2022-08-04T18:43:49",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-04T18:44:36",
+        "lastUpdated": "2022-08-04T18:44:36",
+        "oppID": "1926570"
+      },
+      "CAf33688220c7a67b64fc574a843f91640": {
+        "callSidGeneratedTimestamp": "2022-08-04T18:17:01",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-04T18:31:47",
+        "lastUpdated": "2022-08-04T18:31:47",
+        "oppID": "1953576"
+      }
+    },
+    "emailID": "dilip.chauhan@mobileprogramming.com",
+    "environment": "TEST",
+    "id": "83",
+    "isSandbox": "false",
+    "timestamp": "2022-08-04T18:44:36",
+    "userID": "83",
+    "version": "2.8.09"
+  },
+  "818026fe4f9d45e4035b6b8a8268a8c0": {
+    "calls": {
+      "CA1b9362f8f18dc15ba0cde63a3799ab2b": {
+        "callSidGeneratedTimestamp": "2022-08-09T11:17:32",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T11:25:52",
+        "lastUpdated": "2022-08-09T11:25:52",
+        "oppID": "1628197"
+      },
+      "CA5f02bbf0ece5a5c938f6c0bb316a5faa": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T11:13:03",
+          "DASessionId": "052c507c0cc0e94aebac47687904fa95",
+          "DAStartTime": "2022-08-09T11:12:57"
+        },
+        "VM": {
+          "VMtimestamp": "2022-08-09T11:15:06",
+          "VMtype": "recordedVM"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T11:13:02",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T11:15:06",
+        "lastUpdated": "2022-08-09T11:15:06",
+        "oppID": "1628197"
+      },
+      "CA913b71e71212dfa0f47f20c20f95e4fd": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T11:56:12",
+          "DASessionId": "d5aa00c0b3dc16e8669e73155f781bda",
+          "DAStartTime": "2022-08-09T11:56:06"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T11:56:10",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T11:56:35",
+        "lastUpdated": "2022-08-09T11:56:35",
+        "oppID": "1933292"
+      },
+      "CAadff13731bd9a9974e2d6f103864b52f": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T11:49:23",
+          "DASessionId": "8c5cdd836bbc53faced65ff3e52387c8",
+          "DAStartTime": "2022-08-09T11:49:08"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T11:49:13",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T11:50:05",
+        "lastUpdated": "2022-08-09T11:50:05",
+        "oppID": "1953322"
+      },
+      "CAec2be64e0335583d46bd42d63a732f15": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T11:15:16",
+          "DASessionId": "052c507c0cc0e94aebac47687904fa95",
+          "DAStartTime": "2022-08-09T11:12:57"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T11:15:15",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T11:15:53",
+        "lastUpdated": "2022-08-09T11:15:53",
+        "oppID": "1933292"
+      },
+      "CAee897bd009db820d8c1458f85210e81d": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T11:43:18",
+          "DASessionId": "fe4e96bfabd3ce2c38ec4183e42abc89",
+          "DAStartTime": "2022-08-09T11:43:12"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T11:43:17",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T11:45:03",
+        "lastUpdated": "2022-08-09T11:45:03",
+        "oppID": "1628197"
+      }
+    },
+    "emailID": "dilip.chauhan@mobileprogramming.com",
+    "environment": "TEST",
+    "id": "83",
+    "isSandbox": "false",
+    "timestamp": "2022-08-09T11:56:35",
+    "userID": "83",
+    "version": "2.8.09"
+  },
+  "983459dd726fa4f7c3c420f52e52656e": {
+    "calls": {
+      "CA8bfb8b8c2519a94efe8d29b13200a859": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T14:07:18",
+          "DASessionId": "7794ec9f54c1bd6a1a6d97d6f5304407",
+          "DAStartTime": "2022-08-09T14:07:12"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T14:07:17",
+        "dialType": "dialAssist",
+        "lastUpdated": "2022-08-09T14:07:18",
+        "oppID": "1936545"
+      },
+      "CAa78aed20436136f3af1ef0335ac93391": {
+        "callSidGeneratedTimestamp": "2022-08-09T14:01:29",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T14:01:46",
+        "lastUpdated": "2022-08-09T14:01:46",
+        "oppID": "1933292"
+      }
+    },
+    "emailID": "dilip.chauhan@mobileprogramming.com",
+    "environment": "TEST",
+    "id": "83",
+    "isSandbox": "false",
+    "timestamp": "2022-08-09T14:07:18",
+    "userID": "83",
+    "version": "2.8.09"
+  },
+  "a17d36732fc666644e2cb84b02109925": {
+    "calls": {
+      "CA2de2fe4994ebc8bbec65554f0585a10f": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T13:51:21",
+          "DASessionId": "e6e6c267c2062eea74d00482b0dd6e96",
+          "DAStartTime": "2022-08-09T13:37:03"
+        },
+        "WN": {
+          "WrongNumberTimestamp": "2022-08-09T13:51:25"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T13:51:19",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T13:51:25",
+        "lastUpdated": "2022-08-09T13:51:25",
+        "oppID": "1935436"
+      },
+      "CA3117481d7c06c9710c81bf18b5a9b87e": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T13:48:24",
+          "DASessionId": "e6e6c267c2062eea74d00482b0dd6e96",
+          "DAStartTime": "2022-08-09T13:37:03"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T13:48:23",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T13:51:14",
+        "lastUpdated": "2022-08-09T13:51:14",
+        "oppID": "1951576"
+      },
+      "CA8e1fb99d582b3d95d862a1a5af0f6ce8": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T13:37:10",
+          "DASessionId": "e6e6c267c2062eea74d00482b0dd6e96",
+          "DAStartTime": "2022-08-09T13:37:03"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T13:37:09",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T13:48:11",
+        "lastUpdated": "2022-08-09T13:48:11",
+        "oppID": "1936545"
+      }
+    },
+    "emailID": "dilip.chauhan@mobileprogramming.com",
+    "environment": "TEST",
+    "id": "83",
+    "isSandbox": "false",
+    "timestamp": "2022-08-09T13:51:25",
+    "userID": "83",
+    "version": "2.8.09"
+  },
+  "b2f69138199b5be729b602d7492ed52f": {
+    "calls": {
+      "CA24bf94c0fb4e8f51e6dac5d10fe7f10e": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-05T13:21:51",
+          "DASessionId": "04bcc3c00eb6f06dbcb1067c5302b1b2",
+          "DAStartTime": "2022-08-05T13:21:45"
+        },
+        "callSidGeneratedTimestamp": "2022-08-05T13:21:49",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-05T13:21:57",
+        "lastUpdated": "2022-08-05T13:21:57",
+        "oppID": "1933292"
+      },
+      "CA64895e7afb70a53d7aa866fb44aa7cfd": {
+        "callSidGeneratedTimestamp": "2022-08-05T13:21:49",
+        "dialType": "redial",
+        "finalCallEndTimestamp": "2022-08-05T13:22:18",
+        "lastUpdated": "2022-08-05T13:22:18",
+        "oppID": "1933292",
+        "parentCallSid": "CA24bf94c0fb4e8f51e6dac5d10fe7f10e"
+      },
+      "CA987ac0e994e84006ed8fe8e2ff762ee1": {
+        "callSidGeneratedTimestamp": "2022-08-05T13:18:04",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-05T13:18:15",
+        "lastUpdated": "2022-08-05T13:18:15",
+        "oppID": "1953604"
+      },
+      "CAac44c866239f31c9a1d09aec7b234af3": {
+        "DA": {
+          "DAPollingStatus": "busy",
+          "DAPollingStatusTimestamp": "2022-08-05T13:18:52",
+          "DASessionId": "c31c476d45f4b6e20fc29ab73c2cbc2c",
+          "DAStartTime": "2022-08-05T13:18:46"
+        },
+        "callSidGeneratedTimestamp": "2022-08-05T13:18:50",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-05T13:18:52",
+        "lastUpdated": "2022-08-05T13:18:52",
+        "oppID": "1953604"
+      }
+    },
+    "emailID": "dilip.chauhan@mobileprogramming.com",
+    "environment": "TEST",
+    "id": "83",
+    "isSandbox": "false",
+    "timestamp": "2022-08-05T13:22:18",
+    "userID": "83",
+    "version": "2.8.09"
+  },
+  "b3312b1dffe6c001fe06a283193fba4b": {
+    "calls": {
+      "CA05c406e34ff9f04b5cdfc04224e05108": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:11:34",
+          "DASessionId": "7a56c49a463f2a0f90699b822ff5caed",
+          "DAStartTime": "2022-08-09T17:11:28"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:11:33",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:11:40",
+        "lastUpdated": "2022-08-09T17:11:40",
+        "oppID": "1936088"
+      },
+      "CA0b79017a5679f8da410bb6854e55faa4": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:01:51",
+          "DASessionId": "dab89be8f95cb90dcf609f02f6c35116",
+          "DAStartTime": "2022-08-09T17:01:45"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:01:49",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:01:54",
+        "lastUpdated": "2022-08-09T17:01:54",
+        "oppID": "1936054"
+      },
+      "CA128b80023a4bf2102f20a0a7a850e89d": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:02:47",
+          "DASessionId": "3ed938048c3be3876b18753b6ce1da71",
+          "DAStartTime": "2022-08-09T17:02:41"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:02:46",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:02:52",
+        "lastUpdated": "2022-08-09T17:02:52",
+        "oppID": "1936054"
+      },
+      "CA15bf0747742d68a8433ffe59028a99b0": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:10:51",
+          "DASessionId": "c09369906cbca0e73a823bba9795b990",
+          "DAStartTime": "2022-08-09T17:07:26"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:10:50",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:11:00",
+        "lastUpdated": "2022-08-09T17:11:00",
+        "oppID": "1864354"
+      },
+      "CA188c910d891773fc9e0d2a71d2e97d88": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:09:21",
+          "DASessionId": "c09369906cbca0e73a823bba9795b990",
+          "DAStartTime": "2022-08-09T17:07:26"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:09:20",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:09:26",
+        "lastUpdated": "2022-08-09T17:09:26",
+        "oppID": "1858085"
+      },
+      "CA216fb936619822097bbc0b60f64a5ceb": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:13:25",
+          "DASessionId": "7a56c49a463f2a0f90699b822ff5caed",
+          "DAStartTime": "2022-08-09T17:11:28"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:13:24",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:13:29",
+        "lastUpdated": "2022-08-09T17:13:29",
+        "oppID": "1788220"
+      },
+      "CA23ce55b5d4958beb15ea002e7e261862": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:01:03",
+          "DASessionId": "121e37f92070e311a26d526290c6acff",
+          "DAStartTime": "2022-08-09T17:00:57"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:01:01",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:01:06",
+        "lastUpdated": "2022-08-09T17:01:06",
+        "oppID": "1936054"
+      },
+      "CA304ef0114a1d80592e19c5a023b343db": {
+        "callSidGeneratedTimestamp": "2022-08-09T16:59:33",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T16:59:36",
+        "lastUpdated": "2022-08-09T16:59:36",
+        "oppID": "1858085"
+      },
+      "CA30b9c64034e227633b79befcde1caf3e": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:12:37",
+          "DASessionId": "7a56c49a463f2a0f90699b822ff5caed",
+          "DAStartTime": "2022-08-09T17:11:28"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:12:36",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:12:43",
+        "lastUpdated": "2022-08-09T17:12:43",
+        "oppID": "1858093"
+      },
+      "CA33b94587f672beb4c3274ce9d94c048b": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:01:36",
+          "DASessionId": "ce4e4edd1353029023d1177cf8c38115",
+          "DAStartTime": "2022-08-09T17:01:30"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:01:35",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:01:39",
+        "lastUpdated": "2022-08-09T17:01:39",
+        "oppID": "1936054"
+      },
+      "CA347216ed779be6bfe65d02100359539a": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:09:33",
+          "DASessionId": "c09369906cbca0e73a823bba9795b990",
+          "DAStartTime": "2022-08-09T17:07:26"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:09:31",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:09:41",
+        "lastUpdated": "2022-08-09T17:09:41",
+        "oppID": "1858093"
+      },
+      "CA3695f8c127ab70b7884f51f50f9eadeb": {
+        "callSidGeneratedTimestamp": "2022-08-09T16:57:54",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T16:57:58",
+        "lastUpdated": "2022-08-09T16:57:58",
+        "oppID": "1936054"
+      },
+      "CA44970c979062eabe20d240a8e3752881": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:13:02",
+          "DASessionId": "7a56c49a463f2a0f90699b822ff5caed",
+          "DAStartTime": "2022-08-09T17:11:28"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:13:01",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:13:06",
+        "lastUpdated": "2022-08-09T17:13:06",
+        "oppID": "1887529"
+      },
+      "CA455f4150103e583c5e3d99ca6ef6a645": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:02:18",
+          "DASessionId": "b2d24f9cb67dbef351d423de268744ff",
+          "DAStartTime": "2022-08-09T17:02:12"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:02:17",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:02:21",
+        "lastUpdated": "2022-08-09T17:02:21",
+        "oppID": "1936054"
+      },
+      "CA5347bc9312d16fccacf6038db92cb3e6": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:12:01",
+          "DASessionId": "7a56c49a463f2a0f90699b822ff5caed",
+          "DAStartTime": "2022-08-09T17:11:28"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:12:00",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:12:05",
+        "lastUpdated": "2022-08-09T17:12:05",
+        "oppID": "1820987"
+      },
+      "CA5640ae1f86c0a9e1537c6a2e6b325ca3": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:10:39",
+          "DASessionId": "c09369906cbca0e73a823bba9795b990",
+          "DAStartTime": "2022-08-09T17:07:26"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:10:38",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:10:44",
+        "lastUpdated": "2022-08-09T17:10:44",
+        "oppID": "1788220"
+      },
+      "CA5f8844a9aa7b426e632f6a8c48518122": {
+        "callSidGeneratedTimestamp": "2022-08-09T17:00:20",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T17:00:22",
+        "lastUpdated": "2022-08-09T17:00:22",
+        "oppID": "1804735"
+      },
+      "CA68921a8906f34663f8c4da58c6167299": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:02:32",
+          "DASessionId": "d21e5c35012797becf3d02befbbe97ad",
+          "DAStartTime": "2022-08-09T17:02:27"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:02:31",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:02:36",
+        "lastUpdated": "2022-08-09T17:02:36",
+        "oppID": "1936054"
+      },
+      "CA6da6e277b74566f6c66f1538daf40b94": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:09:50",
+          "DASessionId": "c09369906cbca0e73a823bba9795b990",
+          "DAStartTime": "2022-08-09T17:07:26"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:09:49",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:09:55",
+        "lastUpdated": "2022-08-09T17:09:55",
+        "oppID": "1887516"
+      },
+      "CA7d0c2a138d25b03fd3ee66bb92616aa4": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:08:38",
+          "DASessionId": "c09369906cbca0e73a823bba9795b990",
+          "DAStartTime": "2022-08-09T17:07:26"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:08:36",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:09:01",
+        "lastUpdated": "2022-08-09T17:09:01",
+        "oppID": "1820987"
+      },
+      "CA8593f39f28896f50412f34c5727bd7e8": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:12:50",
+          "DASessionId": "7a56c49a463f2a0f90699b822ff5caed",
+          "DAStartTime": "2022-08-09T17:11:28"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:12:49",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:12:55",
+        "lastUpdated": "2022-08-09T17:12:55",
+        "oppID": "1887516"
+      },
+      "CA86aeef85a48e2158cd292f772620f861": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:13:13",
+          "DASessionId": "7a56c49a463f2a0f90699b822ff5caed",
+          "DAStartTime": "2022-08-09T17:11:28"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:13:12",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:13:18",
+        "lastUpdated": "2022-08-09T17:13:18",
+        "oppID": "1936435"
+      },
+      "CA883b2b0d3a2bb58f4073176dda8a9667": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:13:36",
+          "DASessionId": "7a56c49a463f2a0f90699b822ff5caed",
+          "DAStartTime": "2022-08-09T17:11:28"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:13:35",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:13:40",
+        "lastUpdated": "2022-08-09T17:13:40",
+        "oppID": "1864354"
+      },
+      "CA883b2b0d3a2bb58f4073176dda8a9667": {
+        "callSidGeneratedTimestamp": "2022-08-09T16:58:48",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T16:58:51",
+        "lastUpdated": "2022-08-09T16:58:51",
+        "oppID": "1887529"
+      },
+      "CA9e3c9d72827f930f8102b51077bf5d3a": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:12:25",
+          "DASessionId": "7a56c49a463f2a0f90699b822ff5caed",
+          "DAStartTime": "2022-08-09T17:11:28"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:12:24",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:12:30",
+        "lastUpdated": "2022-08-09T17:12:30",
+        "oppID": "1858085"
+      },
+      "CAa4d14372dbd4ea1d224b0ae8e2ebeaea": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:01:19",
+          "DASessionId": "d0140655c6b05aa8b9beb208a3c195a8",
+          "DAStartTime": "2022-08-09T17:01:13"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:01:18",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:01:23",
+        "lastUpdated": "2022-08-09T17:01:23",
+        "oppID": "1936054"
+      },
+      "CAa8fde2806a0c15ec68696499f0fa9d67": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:12:13",
+          "DASessionId": "7a56c49a463f2a0f90699b822ff5caed",
+          "DAStartTime": "2022-08-09T17:11:28"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:12:11",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:12:17",
+        "lastUpdated": "2022-08-09T17:12:17",
+        "oppID": "1858075"
+      },
+      "CAadd329fb60402d7d4777eada45e911fa": {
+        "callSidGeneratedTimestamp": "2022-08-09T17:00:33",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T17:00:42",
+        "lastUpdated": "2022-08-09T17:00:42",
+        "oppID": "1936435"
+      },
+      "CAafcecf5689b618c609fda5fdc85aa5ca": {
+        "callSidGeneratedTimestamp": "2022-08-09T16:59:49",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T16:59:52",
+        "lastUpdated": "2022-08-09T16:59:52",
+        "oppID": "1858075"
+      },
+      "CAb12f5651e2b0ef2b75cb0f67645e9e64": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:02:04",
+          "DASessionId": "ece51335245a4e8a2efd4967dfca3bfa",
+          "DAStartTime": "2022-08-09T17:01:58"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:02:03",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:02:08",
+        "lastUpdated": "2022-08-09T17:02:08",
+        "oppID": "1936054"
+      },
+      "CAb7f9df21f91f28e246a8e9b826469814": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:10:02",
+          "DASessionId": "c09369906cbca0e73a823bba9795b990",
+          "DAStartTime": "2022-08-09T17:07:26"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:10:01",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:10:12",
+        "lastUpdated": "2022-08-09T17:10:12",
+        "oppID": "1887529"
+      },
+      "CAba5d621595d0c39d849416211daab260": {
+        "callSidGeneratedTimestamp": "2022-08-09T16:58:25",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T16:58:27",
+        "lastUpdated": "2022-08-09T16:58:27",
+        "oppID": "1936088"
+      },
+      "CAbc35c36e22474d914255084f804da9de": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:10:24",
+          "DASessionId": "c09369906cbca0e73a823bba9795b990",
+          "DAStartTime": "2022-08-09T17:07:26"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:10:22",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:10:30",
+        "lastUpdated": "2022-08-09T17:10:30",
+        "oppID": "1936435"
+      },
+      "CAc3f8f1ad4299fdb3b799db2cc25f3891": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:09:08",
+          "DASessionId": "c09369906cbca0e73a823bba9795b990",
+          "DAStartTime": "2022-08-09T17:07:26"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:09:07",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:09:14",
+        "lastUpdated": "2022-08-09T17:09:14",
+        "oppID": "1858075"
+      },
+      "CAc874070835aa31ed2f77e448c80202ca": {
+        "callSidGeneratedTimestamp": "2022-08-09T16:59:03",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T16:59:06",
+        "lastUpdated": "2022-08-09T16:59:06",
+        "oppID": "1887516"
+      },
+      "CAd5114b1ebfcaa2aca833a38505fb345d": {
+        "callSidGeneratedTimestamp": "2022-08-09T16:59:19",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T16:59:21",
+        "lastUpdated": "2022-08-09T16:59:21",
+        "oppID": "1858093"
+      },
+      "CAd51b60c1cfa4856936ff25d3df739041": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:08:21",
+          "DASessionId": "c09369906cbca0e73a823bba9795b990",
+          "DAStartTime": "2022-08-09T17:07:26"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:08:19",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:08:30",
+        "lastUpdated": "2022-08-09T17:08:30",
+        "oppID": "1804735"
+      },
+      "CAd9b25ab6e505982590d05dd2bcc22422": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:11:47",
+          "DASessionId": "7a56c49a463f2a0f90699b822ff5caed",
+          "DAStartTime": "2022-08-09T17:11:28"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:11:46",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:11:54",
+        "lastUpdated": "2022-08-09T17:11:54",
+        "oppID": "1804735"
+      },
+      "CAf5e473c345b6b8d0fa3c58ab3950be90": {
+        "callSidGeneratedTimestamp": "2022-08-09T17:00:04",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T17:00:07",
+        "lastUpdated": "2022-08-09T17:00:07",
+        "oppID": "1820987"
+      }
+    },
+    "emailID": "dilip.chauhan@mobileprogramming.com",
+    "environment": "TEST",
+    "id": "83",
+    "isSandbox": "false",
+    "timestamp": "2022-08-09T17:13:40",
+    "userID": "83",
+    "version": "2.8.09"
+  },
+  "f986be1029d0be9310ef3dd0ab58b4d3": {
+    "calls": {
+      "CA5452d12d19d4153be132f58217c3020a": {
+        "DA": {
+          "DASessionId": "1aae6281893a0419ac633cb595a52a1c",
+          "DAStartTime": "2022-08-09T17:49:16"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:49:56",
+        "dialType": "DA-individual",
+        "finalCallEndTimestamp": "2022-08-09T17:50:01",
+        "lastUpdated": "2022-08-09T17:50:01",
+        "oppID": "1804735"
+      },
+      "CA5a3fc767cd8dc6aa3dbd26c32a0cd475": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:49:21",
+          "DASessionId": "1aae6281893a0419ac633cb595a52a1c",
+          "DAStartTime": "2022-08-09T17:49:16"
+        },
+        "VM": {
+          "VMtimestamp": "2022-08-09T17:49:26",
+          "VMtype": "recordedVM"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:49:20",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:49:26",
+        "lastUpdated": "2022-08-09T17:49:26",
+        "oppID": "1936088"
+      },
+      "CA784ee3810ce08f4de633e5c3d4edaeb3": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:50:22",
+          "DASessionId": "1aae6281893a0419ac633cb595a52a1c",
+          "DAStartTime": "2022-08-09T17:49:16"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:50:21",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:50:32",
+        "lastUpdated": "2022-08-09T17:50:32",
+        "oppID": "1858075"
+      },
+      "CA887d71392f893029d094ea268e15c63a": {
+        "callSidGeneratedTimestamp": "2022-08-09T17:48:04",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T17:48:25",
+        "lastUpdated": "2022-08-09T17:48:25",
+        "oppID": "1864354"
+      },
+      "CAb8a7a9a4831e9bed993ed1bf7ede168a": {
+        "callSidGeneratedTimestamp": "2022-08-09T17:32:36",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T17:42:45",
+        "lastUpdated": "2022-08-09T17:42:45",
+        "oppID": "1954161"
+      },
+      "CA887d71392f893029d094ea268e15c63a": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:49:35",
+          "DASessionId": "1aae6281893a0419ac633cb595a52a1c",
+          "DAStartTime": "2022-08-09T17:49:16"
+        },
+        "WN": {
+          "WrongNumberTimestamp": "2022-08-09T17:49:41"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:49:34",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:49:41",
+        "lastUpdated": "2022-08-09T17:49:41",
+        "oppID": "1804735"
+      },
+      "CAea076175e17f07b24f5779573e3e2b17": {
+        "DA": {
+          "DAPollingStatus": "HumanDetected",
+          "DAPollingStatusTimestamp": "2022-08-09T17:50:08",
+          "DASessionId": "1aae6281893a0419ac633cb595a52a1c",
+          "DAStartTime": "2022-08-09T17:49:16"
+        },
+        "callSidGeneratedTimestamp": "2022-08-09T17:50:06",
+        "dialType": "dialAssist",
+        "finalCallEndTimestamp": "2022-08-09T17:50:16",
+        "lastUpdated": "2022-08-09T17:50:16",
+        "oppID": "1820987"
+      },
+      "CAf220ae7c0f343ab495b7d82752ec6b64": {
+        "callSidGeneratedTimestamp": "2022-08-09T17:45:46",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T17:47:12",
+        "lastUpdated": "2022-08-09T17:47:12",
+        "oppID": "1953979"
+      }
+    },
+    "emailID": "dilip.chauhan@mobileprogramming.com",
+    "environment": "TEST",
+    "id": "83",
+    "isSandbox": "false",
+    "timestamp": "2022-08-09T17:50:32",
+    "userID": "83",
+    "version": "2.8.09"
+  },
+  "fe75adc1a5a9bfb4e31a01170819e304": {
+    "calls": {
+      "CA8d4d15a20f74ea47bf7f1f853c739974": {
+        "callSidGeneratedTimestamp": "2022-08-09T14:12:44",
+        "dialType": "individual",
+        "finalCallEndTimestamp": "2022-08-09T14:13:03",
+        "lastUpdated": "2022-08-09T14:13:03",
+        "oppID": "1824365"
+      }
+    },
+    "emailID": "dilip.chauhan@mobileprogramming.com",
+    "environment": "TEST",
+    "id": "83",
+    "isSandbox": "false",
+    "timestamp": "2022-08-09T14:13:03",
+    "userID": "83",
+    "version": "2.8.09"
+  }
+}

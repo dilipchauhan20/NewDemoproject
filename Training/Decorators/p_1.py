@@ -29,6 +29,10 @@
 # # call the function
 # hello_world_twice()
 print("===================================================================")
+"""
+A decorator in Python is a function that takes another function as its argument, 
+and returns yet another function .
+"""
 
 # function decorator that calls the function twice
 def repeat_decorator(fn):
