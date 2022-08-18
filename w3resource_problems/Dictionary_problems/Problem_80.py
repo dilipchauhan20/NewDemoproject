@@ -17,6 +17,8 @@ print(get_key_of_max_value(dict1))
 print(max(dict1, key=dict1.get), min(dict1, key=dict1.get))
 
 
+# Test
+
 
 
 # Sort the keys by its values
