@@ -1,8 +1,18 @@
+"""string is anagram or not"""
+
+str1 = "abcdcba"
+str2 = "cbaabcd"
+# print(sorted(str1))
+if sorted(str1) == sorted(str2):
+    print("anagram")
+else:
+    print("Not a anagram")
 
 
-
-
-
+if str1[::-1]==str1:
+    print("Palindrome")
+else:
+    print("Not palindrome")
 
 
 
