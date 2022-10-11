@@ -26,3 +26,4 @@ def my_func(val1):
     return val1.count(19) == 2 and val1.count(5) == 3
 
 print(my_func([19, 19, 15, 5, 3, 6, 5, 2]))
+
