@@ -1,38 +1,25 @@
-"""string is anagram or not"""
+"""
+14. Write a Python program to sort a given dictionary by key.
+color_dict = {'red':'#FF0000',
+          'green':'#008000',
+          'black':'#000000',
+          'white':'#FFFFFF'}
+"""
 
-str1 = "abcdcba"
-str2 = "cbaabcd"
-# print(sorted(str1))
-if sorted(str1) == sorted(str2):
-    print("anagram")
-else:
-    print("Not a anagram")
+# color_dict = {'red':'#FF0000',
+#           'green':'#008000',
+#           'black':'#000000',
+#           'white':'#FFFFFF'}
+# print(sorted(color_dict))
 
-
-if str1[::-1]==str1:
-    print("Palindrome")
-else:
-    print("Not palindrome")
-
-
-
-# s1 = "Python"
-# s2 = "Exercises"
+dict1 = {1: 10, 2: 20, 3:30}
+# dict1.pop(2,4)
 #
-# r = f'{s1}{s2}'
-# print(r)
+# print(dict1)
+dict1
 
-
-# s1 = "Python Quiz"
-# p = s1.capitalize()
-# q = s1.title()
-# print(p[2] + q[2])
-
-
-
-# nums1 = [1,2,3]
-# nums2 = nums1
+# N = [[1,2],[3,4]]
 #
-# nums1[0] = 0
+# new_val = [N[i][len(N)-1-i] for i in range(len(N))]
 #
-# print(nums2)
+# print(new_val)
